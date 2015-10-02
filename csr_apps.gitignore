@@ -1,0 +1,8 @@
+.gitignore
+DoxyFile
+
+doc
+depend_*
+
+*.mak
+*.elf
